@@ -10,6 +10,7 @@ The Maintainers are the people who direct the Ockham.NET by voting on which solu
 |Name|Company|Location|Contact|
 |----|-------|--------|-------|
 |Joshua Honig|Mallowfields|Grand Rapids, MI|[joshua-honig](https://github.com/joshua-honig)| 
+|Kendell Joseph|Mallowfields|Grand Rapids, MI|[kendelljoseph](https://github.com/kendelljoseph)|
 
 # Contributors
 The Contributors comprise additional authors of the Ockham.NET project. Contributors can:
