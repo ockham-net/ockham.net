@@ -23,6 +23,8 @@ The project is guided by the current Maintainers. Contributors are people in add
 
 ### Maintainers
 
+*See also [Team.md](./governance/Team.md)*
+
 |Name|Company|Location|Contact|
 |----|-------|--------|-------|
 |Joshua Honig|Mallowfields|Grand Rapids, MI|[joshua-honig](https://github.com/joshua-honig)| 
