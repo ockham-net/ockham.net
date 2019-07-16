@@ -17,7 +17,7 @@ This document describes the lifecycle of proposing and implementing new solution
 ## Existing Solution (new release candidate)
 
  - Either breaking or non-breaking changes may be proposed to an existing solutions. A breaking change is anything that alters the behavior of an existing public API or protected API that users are able to invoke or override in derived classes. 
- - Similar to a new solution, discussions and supporting documents should be provided and posted to the Ockham.NET team O365 SharePoint site.
+ - Similar to a new solution, discussions and supporting documents should be provided and posted to a publicly accessible location.
  - To formally complete the proposal, a pull request should be submitted which updates the current release candidate version number for the applicable solution in the `/docs/Solutions.md` file in the `ockham.net` repository. This is treated as an API change, so a **simple majority** of Maintainers must approve the request.
  - Non-breaking changes require the minor version number to be incremented by one, while any breaking changes require incrementing the major version by one.
  - Once the proposal has been approved, any Maintainer can create the new release candidate branch with the applicable version number (e.g. `rc-1-1` or `rc-2-0`)
