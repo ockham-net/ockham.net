@@ -2,7 +2,7 @@
  
 ### Terminology
 
-*See Terminology.md*
+*See [Terminology.md](./Terminology.md)*
 
 ## Summary
 

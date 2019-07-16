@@ -4,7 +4,7 @@ This document describes the lifecycle of proposing and implementing new solution
 
 ### Terminology
 
-*See Terminology.md*
+*See [Terminology.md](./Terminology.md)*
 
 ## New Solution
 
