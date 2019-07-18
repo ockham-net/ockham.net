@@ -17,13 +17,24 @@ Our work is guided by the principles and conventions described in detail in the 
 
 All of these are underwritten by the **[Rules](./governance/Rules.md)** of the project.
 
+## Projects
+
+*See also [Solutions.md](./docs/Solutions.md)*
+
+Ockham.NET includes the following projects:
+
+|Solution|Repository|Description|
+|:-------|:---------|:-----|
+|Ockham.NET Build Tools|[ockham.net.build](https://github.com/ockham-net/ockham.net.build)|Shared tools for scaffolding, testing, and building Ockham.NET projects|
+
 ## The Team
+
+*See also [Team.md](./governance/Team.md)*
 
 The project is guided by the current Maintainers. Contributors are people in addition to the Maintainers who may submit proposed API changes, implementations, bugfixes, and documentation.
 
 ### Maintainers
 
-*See also [Team.md](./governance/Team.md)*
 
 |Name|Company|Location|Contact|
 |----|-------|--------|-------|
