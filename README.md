@@ -26,6 +26,7 @@ Ockham.NET includes the following projects:
 |Solution|Repository|Description|
 |:-------|:---------|:-----|
 |Ockham.NET Build Tools|[ockham.net.build](https://github.com/ockham-net/ockham.net.build)|Shared tools for scaffolding, testing, and building Ockham.NET projects|
+|Ockham.NET.Convert|[ockham.net.convert](https://github.com/ockham-net/ockham.net.convert)|Extendable, succinct utility for converting primitive data types|
 
 ## The Team
 

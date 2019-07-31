@@ -16,3 +16,4 @@ These solutions/revisions have been proposed and approved for development.
 |Solution|Repository|Sponsor|Version|Description|
 |:-------|:---------|:------|:--:|:-----|
 |Ockham.NET Build Tools|[ockham.net.build](https://github.com/ockham-net/ockham.net.build)|[Joshua Honig](https://github.com/joshua-honig)|1.0|Shared tools for scaffolding, testing, and building Ockham.NET projects|
+|Ockham.NET.Convert|[ockham.net.convert](https://github.com/ockham-net/ockham.net.convert)|[Joshua Honig](https://github.com/joshua-honig)|1.0|Extendable, succinct utility for converting primitive data types|
